@@ -1,93 +1,43 @@
-Telegram Client Finder Tool - Setup and Usage Guide
+Telegram Client Finder Tool
 
-Welcome! This guide will help you get the necessary data from Telegram (API ID and API Hash) and connect your accounts to the Telegram Sender Pro app in just a few minutes.
-
-
-The tool is in the "dist/Leads" folder.
+Stop wasting time searching for clients manually. This tool helps you quickly find people who are actively looking for the products or services you offer.
+If you are a member of Telegram groups related to your niche, the application automatically scans messages and identifies users who are looking for exactly what you sell.
 
 
-Part 1: How to get your API ID and API Hash
+How It Works
+To use the software, you will need a Telegram API account. The application supports multiple Telegram APIs/accounts at the same time.
+After connecting your account, enter the keywords related to your business and choose the time range you want to scan. The software will analyze all Telegram groups you are a member of and extract users who have posted messages matching your selected criteria.
+On the right side of the application, you will see all identified contacts. For each contact, you can:
 
-For the software to connect to Telegram using your account, you need two unique developer keys. The process is 100% free and official.
+* Send a private message.
+* Reply directly to their Telegram post.
+* Open the original Telegram message.
+* Save contacts to a text file.
 
-Follow these steps:
-
-
-
-Go to the official Telegram developer website: https://my.telegram.org/
-
-Enter the phone number of the account you want to use (including the country code, e.g., +1... or +44...) and click Next.
-
-You will receive a confirmation code directly in your Telegram app (on your phone or PC). Enter that code on the website and click Sign In.
-
-From the main menu, click on "API development tools".
-
-A form will appear that you need to fill out to create an "Application".
-
-What settings to fill in the form:
-
-It doesn't matter much what you write here, but it's recommended to make it look natural. Here is a safe example:
+Once started, the software scans all Telegram groups you belong to. If you are connected to many groups or using multiple Telegram APIs, the initial scan may take longer to complete.
+After the initial scan is finished, the application continues monitoring your groups in real time. Whenever a new post matches your keywords, you will receive an instant notification.
+Simply leave the software running, and whenever potential customers are found, you can contact them directly and present your offer.
 
 
+Price
+475$ – Lifetime Access.
 
-App title: Choose any name (e.g., Myleads, Mytools).
 
-Short name: A short name, no spaces, using letters and numbers (e.g., mymarketing24, sendappxyz).
-
-URL: www.google.com or my site
-
-Platform: Choose Desktop or Windows.
-
-Description: Leave blank or write a short sentence (e.g., "Personal account manager tool").
-
-Click the blue "Create application" button.
-
-On the next page, you will see the App api_id (a string of numbers) and the App api_hash (a long string of letters and numbers).
+System Requirements
+Currently available for Windows 10 and 11 only.
+All customers receive free lifetime updates. Any new features, improvements, or future versions of the software will be available at no additional cost.
 
 
 
-⚠️ IMPORTANT: Save these two codes in a Notepad file or keep the page open. Do not share this API Hash with anyone!
+If you would like help with the required setup, I can assist you with:
+* Creating your Telegram API account.
+* Finding the most relevant keywords for your business.
+* Setting up and running the tool correctly.
 
-(Pro Tip: If you get a red error when clicking "Create application", turn off any VPN you might have running, change your internet network (e.g., use mobile data), or add a few more letters to the "App title" and try again. Telegram is sometimes sensitive to IP addresses).
-
-
-
-Part 2: How to connect the API to Telegram Client Finder Tool
-
-Now that you have the data, connecting it to the software is very simple.
+Setup assistance price: 80$
 
 
+For details: 
+TELEGRAM: http://t.me/Dataslist_bot 
 
-Open the dist/Leads (the .exe file).
-
-Click the + ADD NEW ACCOUNT button on the left side to create a new row for your account.
-
-In the fields that appeared:
-
-Copy and paste your API ID into the first box (e.g., 1234567).
-
-Copy and paste your API Hash into the second box (e.g., a1b2c3d4e5f6g7...).
-
-Click the Login button.
-
-A pop-up window will ask for your phone number:
-
-Enter the full number (e.g., +1xxxxxxxxx) and click OK.
-
-A second pop-up window will ask for the security code:
-
-Check your Telegram app (you will receive an official message from Telegram with a 5-digit code).
-
-Enter the code into the software and click OK.
-
-(If you have a 2FA/Two-Step Verification password set on your account, a third window will appear asking for the password).
-
-🎉 Done! If the details were correct, the "OFFLINE" status will change to your account's name, written in green (e.g., JOHN DOE), and
-
-Now enter the words depending on which customers you want to attract, for example: I want to buy, need data gmail, needs, Need number phone , Ned boit, I need fata, Need list, Need data pro, Need to promote, Ineed boite, looking for crypto database, Who sell dump
-
-
-
-For details:
-TELEGRAM: http://t.me/Dataslist_bot
 Email: listmailfresh@yahoo.com
